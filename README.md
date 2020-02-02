@@ -1,6 +1,6 @@
 # Awesome Material-UI [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# [<p align="center"><img src="https://github.com/nadunindunil/awesome-material-ui/blob/master/material-ui-logo.svg" height=300></p>](https://material-ui.com/)
+[<p align="center"><img src="https://github.com/nadunindunil/awesome-material-ui/blob/master/material-ui-logo.svg" height=300></p>](https://material-ui.com/)
 
 [Material-UI](https://material-ui.com/) is a react components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
