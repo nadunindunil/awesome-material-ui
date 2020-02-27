@@ -2,7 +2,7 @@
 
 [<p align="center"><img src="https://github.com/nadunindunil/awesome-material-ui/blob/master/material-ui-logo.svg" height=300></p>](https://material-ui.com/)
 
-[Material-UI](https://material-ui.com/) is a react components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
+[Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
 ## Contents
 
@@ -24,7 +24,7 @@ Official projects and resources of Material-UI Design.
 ## Articles
 
 - [Getting started with Material-UI](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555)
-- [How to autogenerate forms in react and Material-UI with MSON](https://medium.com/free-code-camp/how-to-autogenerate-forms-in-react-and-material-ui-with-mson-5771b1b7e739)
+- [How to autogenerate forms in React and Material-UI with MSON](https://medium.com/free-code-camp/how-to-autogenerate-forms-in-react-and-material-ui-with-mson-5771b1b7e739)
 
 ## Tools
 
