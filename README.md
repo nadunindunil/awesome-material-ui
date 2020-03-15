@@ -44,13 +44,13 @@ Here are utilities that can help you customize your theme and ability to change 
 
 ## Related Projects
 
-Material UI Design family of projects.
+Material-UI Design family of projects.
 
 - [Material Theme Editor](https://material.io/resources/theme-editor/) - Material Design made by Google.
 - [material-ui-dropzone](https://github.com/Yuvaleros/material-ui-dropzone) - Material-UI component built on top of react-dropzone.
 - [formik-material-ui](https://github.com/stackworx/formik-material-ui) - Bindings for using Material-UI with formik.
-- [redux-form-material-ui](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material UI with Redux Form.
-- [final-form-material-ui](https://github.com/Deadly0/final-form-material-ui) - Wrapper components to facilitate using Material UI with Final Form.
+- [redux-form-material-ui](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material-UI with Redux Form.
+- [final-form-material-ui](https://github.com/Deadly0/final-form-material-ui) - Wrapper components to facilitate using Material-UI with Final Form.
 - [material-auto-rotating-carousel](https://mui.wertarbyte.com/#material-auto-rotating-carousel) - Material style carousel.
 - [Material-UI-image](https://mui.wertarbyte.com/#material-ui-image) - Material style image with loading animation.
 - [Material-UI-flat-pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
@@ -73,7 +73,7 @@ A list of UI components built with Material-UI Design.
 
 ## Applications
 
-A list of mature apps built with Material UI Design.
+A list of mature apps built with Material-UI Design.
 
 - [bethesda.net](https://bethesda.net/) - The official site for Bethesda, publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, more.
 - [NEO Tracker](https://neotracker.io/) - NEO blockchain explorer and wallet.
@@ -83,10 +83,10 @@ A list of mature apps built with Material UI Design.
 
 ## Boilerplates
 
-A list of starter projects and boilerplates built with Material UI Design.
+A list of starter projects and boilerplates built with Material-UI Design.
 
 - [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
-- [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and material UI.
+- [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
 - [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
 
 ## Contributing
