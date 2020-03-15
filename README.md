@@ -1,6 +1,6 @@
-# Awesome Material-UI [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-
 [<p align="center"><img src="https://github.com/nadunindunil/awesome-material-ui/blob/master/material-ui-logo.svg" height=300></p>](https://material-ui.com/)
+
+# Awesome Material-UI [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [Material-UI](https://material-ui.com/) is a React components library for faster and easier web development. It follows [Material Design](https://material.io/design/introduction/) from Google.
 
@@ -23,22 +23,23 @@ Official projects and resources of Material-UI Design.
 
 ## Articles
 
-- [Getting started with Material-UI](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555)
-- [How to autogenerate forms in React and Material-UI with MSON](https://medium.com/free-code-camp/how-to-autogenerate-forms-in-react-and-material-ui-with-mson-5771b1b7e739)
+- [Getting started with Material-UI](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555) - How to setup and use Material-UI in your React web application.
+- [How to autogenerate forms in React and Material-UI with MSON](https://medium.com/free-code-camp/how-to-autogenerate-forms-in-react-and-material-ui-with-mson-5771b1b7e739) - A guide to auto generate forms using JSON in Material-UI.
 
 ## Tools
 
-These are tools and utilities to help build apps using Material-UI Design
+These are tools and utilities to help build apps using Material-UI Design.
 
-- [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/)
-
+- [Material-UI Snippets](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets) - VSCode extension providing snippets.
+- [Material-UI Codemorphs](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-codemorphs) - VSCode extension providing codemods.
 
 ## Theming
 
-Here are utilities that can help you customize your theme and ability to change it in browser
+Here are utilities that can help you customize your theme and ability to change it in browser.
 
-- [Create Material-UI Theme](https://github.com/react-theming/create-mui-theme)
-- [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/)
+- [Create Material-UI Theme](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
+- [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/) - Material-UI theme/palette generator.
+- [Material-UI-theme-editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material-UI applications by just selecting the colors and having a live preview.
 
 
 ## Related Projects
@@ -51,10 +52,10 @@ Material UI Design family of projects.
 - [redux-form-material-ui](https://github.com/erikras/redux-form-material-ui) - Wrapper components to facilitate using Material UI with Redux Form.
 - [final-form-material-ui](https://github.com/Deadly0/final-form-material-ui) - Wrapper components to facilitate using Material UI with Final Form.
 - [material-auto-rotating-carousel](https://mui.wertarbyte.com/#material-auto-rotating-carousel) - Material style carousel.
-- [material-ui-image](https://mui.wertarbyte.com/#material-ui-image) - Material style image with loading animation.
-- [material-ui-flat-pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
+- [Material-UI-image](https://mui.wertarbyte.com/#material-ui-image) - Material style image with loading animation.
+- [Material-UI-flat-pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
 - [dx-react-scheduler-material-ui](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
-[dx-react-chart-material-ui](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
+- [dx-react-chart-material-ui](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
 
 
 ## Components
@@ -63,11 +64,12 @@ A list of UI components built with Material-UI Design.
 
 - [Material-UI Pickers](https://github.com/mui-org/material-ui-pickers) - Date and time pickers built for @material-ui/core.
 - [Material-UI Chip Input](https://github.com/TeamWertarbyte/material-ui-chip-input) - Material-UI chip input inspired by Angular Material chip input.
-- [Material-UI Password field](https://github.com/TeamWertarbyte/material-ui-password-field)
-- [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog)
+- [Material-UI Password field](https://github.com/TeamWertarbyte/material-ui-password-field) - A password field using Material-UI.
+- [Fullscreen Dialog](https://github.com/TeamWertarbyte/material-ui-fullscreen-dialog) - A fullscreen dialog for Material-UI.
 - [Material-UI Upload](https://github.com/corpix/material-ui-upload) - Upload controls made in Material-UI using FileAPI.
 - [Super Select Field](https://github.com/Sharlaan/material-ui-superselectfield) - Multi-selection autocomplete dropdown component for Material-UI.
 - [Material JSON Schema Form](https://github.com/nadunindunil/material-jsonschema-form) - Material-UI form generated from json.
+- [Notistack](https://github.com/iamhosseindhv/notistack) - Easy snackbars for Material-UI (so you don't have to deal with open/close state of them).
 
 ## Applications
 
@@ -83,9 +85,9 @@ A list of mature apps built with Material UI Design.
 
 A list of starter projects and boilerplates built with Material UI Design.
 
-- [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui)
-- [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate)
-- [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui)
+- [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
+- [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and material UI.
+- [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
 
 ## Contributing
 
