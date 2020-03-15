@@ -39,14 +39,14 @@ Here are utilities that can help you customize your theme and ability to change 
 
 - [Create Material-UI Theme](https://github.com/react-theming/create-mui-theme) - Online tool for creating Material-UI themes via Material Design Color Tool.
 - [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/) - Material-UI theme/palette generator.
-- [Material-UI-theme-editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material-UI applications by just selecting the colors and having a live preview.
+- [Material-UI Theme Editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material-UI applications by just selecting the colors and having a live preview.
 
 ## Related Projects
 
 Material-UI Design family of projects.
 
-- [Material Theme Editor](https://material.io/resources/theme-editor/) - Material Design made by Google.
-- [Components-extra](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
+- [Material Theme Editor](https://material.io/resources/theme-editor/) - Create and customize your Material theme.
+- [Components Extra](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 
 ## Components
 
@@ -66,7 +66,7 @@ A list of UI components built with Material-UI Design.
 - [Final-Form-Material-UI](https://github.com/Deadly0/final-form-material-ui) - Wrapper components to facilitate using Material-UI with Final Form.
 - [Material-UI Auto Rotating Carousel](https://mui.wertarbyte.com/#material-auto-rotating-carousel) - Material style carousel.
 - [Material-UI Image](https://mui.wertarbyte.com/#material-ui-image) - Material style image with loading animation.
-- [Material-UI flat pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
+- [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
 - [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 - [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
 
