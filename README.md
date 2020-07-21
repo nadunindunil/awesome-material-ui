@@ -82,6 +82,7 @@ A list of mature apps built with Material-UI Design.
 - [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
 - [Builder Book](https://builderbook.org/) - An open source web app to write and host documentation or sell books.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
+- [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
 
 ## Boilerplates
 
