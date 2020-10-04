@@ -75,13 +75,13 @@ A list of UI components built with Material-UI Design.
 - [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
 - [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 - [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
+- [Material-ui Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) - Using Material-UI Card component for show the Medium blogs.
+- [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Using Material-UI Card component for show the GitHub repositories.
 
 ## Applications
 
 A list of mature apps built with Material-UI Design.
 
-- [Material-ui Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog)
-- [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards)
 - [bethesda.net](https://bethesda.net/) - The official site for Bethesda, publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, more.
 - [NEO Tracker](https://neotracker.io/) - NEO blockchain explorer and wallet.
 - [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
