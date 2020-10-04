@@ -53,6 +53,8 @@ Material-UI Design family of projects.
 - [Material Theme Editor](https://material.io/resources/theme-editor/) - Create and customize your Material theme.
 - [Components Extra](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 - [React Admin](https://marmelab.com/react-admin/) - A frontend Framework for building admin applications running in the browser, on top of REST/GraphQL APIs, using ES6, React and Material Design.
+- [React Github Repo Cards](https://react-github-repo-cards.vercel.app/) - 8 best GitHub repositories of Sabesan Sathananthan.
+- [Material-UI Medium Blog](https://material-ui-medium-blog.vercel.app/) - Sabesan Sathananthan's last 10 Medium blogs.
 
 ## Components
 
@@ -75,8 +77,8 @@ A list of UI components built with Material-UI Design.
 - [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
 - [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 - [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
-- [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) - Using Material-UI Card component for show the Medium blogs.
-- [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Using Material-UI Card component for show the GitHub repositories.
+- [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) - Extended Material-UI Card component to show the Medium blogs.
+- [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
 
 ## Applications
 
@@ -88,8 +90,6 @@ A list of mature apps built with Material-UI Design.
 - [Builder Book](https://builderbook.org/) - An open source web app to write and host documentation or sell books.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
 - [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
-- [React Github Repo Cards](https://react-github-repo-cards.vercel.app/) - 8 best GitHub repositories of sabesan sathananthan.
-- [Material-UI Medium Blog](https://material-ui-medium-blog.vercel.app/) - Sabesan sathananthan's last 10 Medium blogs.
 
 ## Boilerplates
 
