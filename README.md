@@ -75,7 +75,7 @@ A list of UI components built with Material-UI Design.
 - [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
 - [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 - [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
-- [Material-ui Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) - Using Material-UI Card component for show the Medium blogs.
+- [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) - Using Material-UI Card component for show the Medium blogs.
 - [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Using Material-UI Card component for show the GitHub repositories.
 
 ## Applications
@@ -89,7 +89,7 @@ A list of mature apps built with Material-UI Design.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
 - [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
 - [React Github Repo Cards](https://react-github-repo-cards.vercel.app/) - 8 best GitHub repositories of sabesan sathananthan.
-- [Material-ui Medium Blog](https://material-ui-medium-blog.vercel.app/) - Sabesan sathananthan's last 10 Medium blogs.
+- [Material-UI Medium Blog](https://material-ui-medium-blog.vercel.app/) - Sabesan sathananthan's last 10 Medium blogs.
 
 ## Boilerplates
 
