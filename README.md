@@ -27,6 +27,9 @@ Official projects and resources of Material-UI Design.
 
 - [Getting started with Material-UI](https://medium.com/codingthesmartway-com-blog/getting-started-with-material-ui-for-react-material-design-for-react-364b2688b555) - How to setup and use Material-UI in your React web application.
 - [How to autogenerate forms in React and Material-UI with MSON](https://medium.com/free-code-camp/how-to-autogenerate-forms-in-react-and-material-ui-with-mson-5771b1b7e739) - A guide to auto generate forms using JSON in Material-UI.
+- [Let's Create a COVID-19 Tracker using React.js](https://towardsdatascience.com/lets-create-a-covid-19-tracker-using-react-js-5a3a0265a633) - A guide to develop covid 19 tracker application using Material-UI
+- [Serverless Material UI contact form](https://medium.com/design-bootcamp/serverless-material-ui-contact-form-55296e107609) - A guide to develop Material-UI contact form
+- [Embed Medium as a blog on your React Website — Part 2](https://medium.com/datadriveninvestor/embed-medium-as-a-blog-on-your-react-website-part-2-187db2b60a59) - A guide to embed medium as a blog on your react website using Material-UI
 
 ## Tools
 
@@ -50,6 +53,8 @@ Material-UI Design family of projects.
 - [Material Theme Editor](https://material.io/resources/theme-editor/) - Create and customize your Material theme.
 - [Components Extra](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 - [React Admin](https://marmelab.com/react-admin/) - A frontend Framework for building admin applications running in the browser, on top of REST/GraphQL APIs, using ES6, React and Material Design.
+- [React Github Repo Cards](https://react-github-repo-cards.vercel.app/) - 8 best GitHub repositories of Sabesan Sathananthan.
+- [Material-UI Medium Blog](https://material-ui-medium-blog.vercel.app/) - Sabesan Sathananthan's last 10 Medium blogs.
 
 ## Components
 
@@ -72,6 +77,8 @@ A list of UI components built with Material-UI Design.
 - [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
 - [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 - [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
+- [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) - Extended Material-UI Card component to show the Medium blogs.
+- [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
 
 ## Applications
 
