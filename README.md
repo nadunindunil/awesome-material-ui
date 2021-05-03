@@ -81,6 +81,8 @@ A list of UI components built with Material-UI Design.
 - [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
 - [React molecule-components](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
 - [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
+- [react-planet](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
+
 
 ## Applications
 
